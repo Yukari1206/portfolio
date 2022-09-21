@@ -20,7 +20,7 @@
     "vue-loader": "^15.9.0",
     "vue-router": "^3.1.5",
     "vue-skill-bar": "^1.0.1",
-    "vuetify": "^2.2.11"
+    "vuetify": "^2.6.10"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.2.0",
